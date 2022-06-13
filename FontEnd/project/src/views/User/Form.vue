@@ -17,7 +17,7 @@
 
    
   <br>
-  <div><button type="submit">Thêm </button></div>
+  <div><button type="submit">Lưu </button></div>
   </form>
  
 
